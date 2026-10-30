@@ -1,0 +1,25 @@
+# 작성일시: 2026-10-30 14:05
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터/IDE 설정
+.vscode/
+.idea/
+*.swp
+*~
+
+# 환경 변수 및 민감 정보
+.env
+.env.*
+
+# 의존성 및 빌드 결과물
+node_modules/
+dist/
+build/
+
+# 로그
+*.log
+npm-debug.log*
